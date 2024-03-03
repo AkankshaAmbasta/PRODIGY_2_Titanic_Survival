@@ -1,1 +1,1 @@
-# PRODIGY_2_Titanic_Survival
+Titanic_Survival
